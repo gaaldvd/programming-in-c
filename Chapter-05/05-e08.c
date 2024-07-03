@@ -6,11 +6,11 @@ int main(void) {
 
     int amount, number, triNum;
 
-    printf("how many triangular numbers? ");
+    printf("how many triangular numbers: ");
     scanf("%i", &amount);
 
     for (int i = 1; i <= amount; i++) {
-        printf("which triangular number? ");
+        printf("which triangular number: ");
         scanf("%i", &number);
         triNum = 0;
 

@@ -10,7 +10,7 @@ int main(void) {
     float c;
 
     c = (f - 32) / 1.8;
-    printf("27 degrees fahrenheit = %f degrees celsius.\n", c);
+    printf("27 degrees fahrenheit = %f degrees celsius\n", c);
 
     return 0;
 

@@ -2,7 +2,7 @@
 
 ## Exercises from Stephen G. Kochan's book Programming in C, 3rd Edition, 2005
 
-Based on the Hungarian edition, Kiskapu Kft., 2008
+*Some code presented here is based on [the solutions of Henrik Samuelsson](https://github.com/HenrikSamuelsson/Programming-in-C).*
 
 ### [Chapter 3: Compiling and running your first program](https://github.com/strugamano/programming-in-c/tree/main/Chapter-03)
 
@@ -26,10 +26,20 @@ Based on the Hungarian edition, Kiskapu Kft., 2008
 - [Exercise 3: triangular numbers for every 5th number between 5 and 50](https://github.com/strugamano/programming-in-c/tree/main/Chapter-05/05-e03.c)
 - [Exercise 4: first ten factorials](https://github.com/strugamano/programming-in-c/tree/main/Chapter-05/05-e04.c)
 - [Exercise 5: restructured code](https://github.com/strugamano/programming-in-c/tree/main/Chapter-05/05-e05.c)
-- [Exercise 6: table of triangular numbers, 05-03 modified](https://github.com/strugamano/programming-in-c/tree/main/Chapter-05/05-e06)
+- [Exercise 6: table of triangular numbers, 05-03 modified](https://github.com/strugamano/programming-in-c/tree/main/Chapter-05/05-e06.c)
 - [Exercise 7: formating output](https://github.com/strugamano/programming-in-c/tree/main/Chapter-05/05-e07.c)
-- [Exercise 8: amount of triangular numbers by user input, 05-05 modified](https://github.com/strugamano/programming-in-c/tree/main/Chapter-05/05-e08)
+- [Exercise 8: amount of triangular numbers by user input, 05-05 modified](https://github.com/strugamano/programming-in-c/tree/main/Chapter-05/05-e08.c)
 - [Exercise 9 (modified source code from the chapter)](https://github.com/strugamano/programming-in-c/tree/main/Chapter-05/05-e09)
 - [Exercise 11: sum of digits](https://github.com/strugamano/programming-in-c/tree/main/Chapter-05/05-e11.c)
 
 ### [Chapter 6: Decision making](https://github.com/strugamano/programming-in-c/tree/main/Chapter-06)
+
+- [Exercise 1 (source code from the chapter)](https://github.com/strugamano/programming-in-c/tree/main/Chapter-06/06-e01)
+- [Exercise 2: check if two numbers are are evenly divisible](https://github.com/strugamano/programming-in-c/tree/main/Chapter-06/06-e02.c)
+- [Exercise 3: division of two integers](https://github.com/strugamano/programming-in-c/tree/main/Chapter-06/06-e03.c)
+- [Exercise 4: simple calculator](https://github.com/strugamano/programming-in-c/tree/main/Chapter-06/06-e04.c)
+- [Exercise 5: reversing digits of a number, 05-09 modified](https://github.com/strugamano/programming-in-c/tree/main/Chapter-06/06-e05.c)
+- [Exercise 6: displaying number with english words](https://github.com/strugamano/programming-in-c/tree/main/Chapter-06/06-e06.c)
+- [Exercise 7: table of prime numbers, 06-10A modified](https://github.com/strugamano/programming-in-c/tree/main/Chapter-06/06-e07.c)
+
+### [Chapter 7: Arrays](https://github.com/strugamano/programming-in-c/tree/main/Chapter-07)

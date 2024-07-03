@@ -6,7 +6,7 @@ int main(void) {
 
     int n = 1, number, triangularNumber = 0;
 
-    printf("which triangular number? ");
+    printf("which triangular number: ");
     scanf("%i", &number);
 
     while (n <= number) {
