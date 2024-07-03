@@ -43,3 +43,5 @@
 - [Exercise 7: table of prime numbers, 06-10A modified](https://github.com/strugamano/programming-in-c/tree/main/Chapter-06/06-e07.c)
 
 ### [Chapter 7: Arrays](https://github.com/strugamano/programming-in-c/tree/main/Chapter-07)
+
+- [Exercise 1 (source code from the chapter)](https://github.com/strugamano/programming-in-c/tree/main/Chapter-07/07-e01)
