@@ -1,4 +1,4 @@
-// 05-02 with while loop
+// the 200th triangular number, modified 05-02 with while loop
 
 #include <stdio.h>
 

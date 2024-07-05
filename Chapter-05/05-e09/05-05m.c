@@ -1,4 +1,5 @@
-// 05-05 with while loops
+// nested whlile loop, modified 05-05
+
 #include <stdio.h>
 
 int main(void) {

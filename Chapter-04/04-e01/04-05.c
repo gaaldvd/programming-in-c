@@ -1,4 +1,4 @@
-// basic conversions
+// basic type conversions
 
 #include <stdio.h>
 

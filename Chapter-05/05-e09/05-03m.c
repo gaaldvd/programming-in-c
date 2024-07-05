@@ -1,4 +1,4 @@
-// 05-03 with while loop
+// table of triangular numbers, modified 05-03 with while loop
 
 #include <stdio.h>
 

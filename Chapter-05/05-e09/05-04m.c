@@ -1,4 +1,4 @@
-// 05-04 with while loop
+// input for triangular number, modified 05-04 with while loop
 
 #include <stdio.h>
 
