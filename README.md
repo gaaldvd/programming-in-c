@@ -8,13 +8,16 @@
 
 - [Exercise 1 (source code from the chapter)](https://github.com/strugamano/programming-in-c/tree/main/Chapter-03/03-e01.md)
 - [Exercise 2: displaying multiple lines of output](https://github.com/strugamano/programming-in-c/tree/main/Chapter-03/03-e02.c)
+- [Exercise 3: output without line breaks](https://github.com/strugamano/programming-in-c/tree/main/Chapter-03/03-e03.c)
 - [Exercise 4: displaying the result of an expression in one step](https://github.com/strugamano/programming-in-c/tree/main/Chapter-03/03-e04.c)
 - [Exercise 5: displaying the result of an expression in two steps](https://github.com/strugamano/programming-in-c/tree/main/Chapter-03/03-e05.c)
+- [Exercise 6: initializing integer variables](https://github.com/strugamano/programming-in-c/tree/main/Chapter-03/03-e06.c)
 
 ### [Chapter 4: Variables, data types and arithmetic expressions](https://github.com/strugamano/programming-in-c/tree/main/Chapter-04/04-e01.md)
 
 - [Exercise 1 (source code from the chapter)](https://github.com/strugamano/programming-in-c/tree/main/Chapter-04/04-e01.md)
 - [Exercise 4: fahrenheit - celsius conversion](https://github.com/strugamano/programming-in-c/tree/main/Chapter-04/04-e04.c)
+- [Exercise 5: initializing character variables](https://github.com/strugamano/programming-in-c/tree/main/Chapter-04/04-e05.c)
 - [Exercise 6: evaluation of polynomial](https://github.com/strugamano/programming-in-c/tree/main/Chapter-04/04-e06.c)
 - [Exercise 7: evaluation of expression with exponentials](https://github.com/strugamano/programming-in-c/tree/main/Chapter-04/04-e07.c)
 - [Exercise 8: next largest even multiple](https://github.com/strugamano/programming-in-c/tree/main/Chapter-04/04-e08.c)
@@ -48,3 +51,6 @@
 - [Exercise 2: initializing array, 07-01 modified](https://github.com/strugamano/programming-in-c/tree/main/Chapter-07/07-e02.c)
 - [Exercise 3: counter array, 07-02 modified](https://github.com/strugamano/programming-in-c/tree/main/Chapter-07/07-e03.c)
 - [Exercise 4: averaging floats](https://github.com/strugamano/programming-in-c/tree/main/Chapter-07/07-e04.c)
+- [Exercise 5: geometric sequence](https://github.com/strugamano/programming-in-c/tree/main/Chapter-07/07-e05.c)
+- [Exercise 6: first 15 Fibonacci numbers without arrays, 07-03 modified](https://github.com/strugamano/programming-in-c/tree/main/Chapter-07/07-e06.c)
+- [Exercise 7: the Sieve of Eratosthenes](https://github.com/strugamano/programming-in-c/tree/main/Chapter-07/07-e07.c)
