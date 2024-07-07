@@ -4,7 +4,7 @@
 
 *Some code presented here is based on [the solutions of Henrik Samuelsson](https://github.com/HenrikSamuelsson/Programming-in-C).*
 
-### [Chapter 3: Compiling and running your first program](https://github.com/strugamano/programming-in-c/tree/main/Chapter-03/03-e01/03-e01.md)
+### Chapter 3: Compiling and running your first program
 
 - [Exercise 1 (source code from the chapter)](https://github.com/strugamano/programming-in-c/tree/main/Chapter-03/03-e01/03-e01.md)
 - [Exercise 2: displaying multiple lines of output](https://github.com/strugamano/programming-in-c/tree/main/Chapter-03/03-e02.c)
@@ -13,7 +13,7 @@
 - [Exercise 5: displaying the result of an expression in two steps](https://github.com/strugamano/programming-in-c/tree/main/Chapter-03/03-e05.c)
 - [Exercise 6: initializing integer variables](https://github.com/strugamano/programming-in-c/tree/main/Chapter-03/03-e06.c)
 
-### [Chapter 4: Variables, data types and arithmetic expressions](https://github.com/strugamano/programming-in-c/tree/main/Chapter-04/04-e01/04-e01.md)
+### Chapter 4: Variables, data types and arithmetic expressions
 
 - [Exercise 1 (source code from the chapter)](https://github.com/strugamano/programming-in-c/tree/main/Chapter-04/04-e01/04-e01.md)
 - [Exercise 4: fahrenheit - celsius conversion](https://github.com/strugamano/programming-in-c/tree/main/Chapter-04/04-e04.c)
@@ -22,7 +22,7 @@
 - [Exercise 7: evaluation of expression with exponentials](https://github.com/strugamano/programming-in-c/tree/main/Chapter-04/04-e07.c)
 - [Exercise 8: next largest even multiple](https://github.com/strugamano/programming-in-c/tree/main/Chapter-04/04-e08.c)
 
-### [Chapter 5: Loops](https://github.com/strugamano/programming-in-c/tree/main/Chapter-05/05-e01/05-e01.md)
+### Chapter 5: Loops
 
 - [Exercise 1 (source code from the chapter)](https://github.com/strugamano/programming-in-c/tree/main/Chapter-05/05-e01/05-e01.md)
 - [Exercise 2: table of squares](https://github.com/strugamano/programming-in-c/tree/main/Chapter-05/05-e02.c)
@@ -35,7 +35,7 @@
 - [Exercise 9 (modified source code from the chapter with while loops)](https://github.com/strugamano/programming-in-c/tree/main/Chapter-05/05-e09/05-e09.md)
 - [Exercise 11: sum of digits](https://github.com/strugamano/programming-in-c/tree/main/Chapter-05/05-e11.c)
 
-### [Chapter 6: Decision making](https://github.com/strugamano/programming-in-c/tree/main/Chapter-06/06-e01/06-e01.md)
+### Chapter 6: Decision making
 
 - [Exercise 1 (source code from the chapter)](https://github.com/strugamano/programming-in-c/tree/main/Chapter-06/06-e01/06-e01.md)
 - [Exercise 2: check if two numbers are are evenly divisible](https://github.com/strugamano/programming-in-c/tree/main/Chapter-06/06-e02.c)
@@ -45,7 +45,7 @@
 - [Exercise 6: displaying number with english words](https://github.com/strugamano/programming-in-c/tree/main/Chapter-06/06-e06.c)
 - [Exercise 7: table of prime numbers, 06-10A modified](https://github.com/strugamano/programming-in-c/tree/main/Chapter-06/06-e07.c)
 
-### [Chapter 7: Arrays](https://github.com/strugamano/programming-in-c/tree/main/Chapter-07/07-e01/07-e01.md)
+### Chapter 7: Arrays
 
 - [Exercise 1 (source code from the chapter)](https://github.com/strugamano/programming-in-c/tree/main/Chapter-07/07-e01/07-e01.md)
 - [Exercise 2: initializing array, 07-01 modified](https://github.com/strugamano/programming-in-c/tree/main/Chapter-07/07-e02.c)
