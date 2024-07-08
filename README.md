@@ -54,3 +54,7 @@
 - [Exercise 5: geometric sequence](https://github.com/strugamano/programming-in-c/tree/main/Chapter-07/07-e05.c)
 - [Exercise 6: first 15 Fibonacci numbers without arrays, 07-03 modified](https://github.com/strugamano/programming-in-c/tree/main/Chapter-07/07-e06.c)
 - [Exercise 7: the Sieve of Eratosthenes](https://github.com/strugamano/programming-in-c/tree/main/Chapter-07/07-e07.c)
+
+### Chapter 8: Functions
+
+- [Exercise 1 (source code from the chapter)](https://github.com/strugamano/programming-in-c/tree/main/Chapter-08/08-e01/08-e01.md)
