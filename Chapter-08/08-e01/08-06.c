@@ -1,4 +1,4 @@
-// function that returns the greatest common divisor, 08-05 modified
+// greatest common divisor function, 08-05 modified
 
 #include <stdio.h>
 

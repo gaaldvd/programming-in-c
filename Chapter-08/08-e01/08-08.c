@@ -1,4 +1,4 @@
-// function that returns the square root of a number (Newton–Raphson method)
+// square root function (Newton–Raphson method)
 
 #include <stdio.h>
 

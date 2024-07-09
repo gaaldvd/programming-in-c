@@ -1,4 +1,4 @@
-// function to calculate the n. triangular number
+// n. triangular number function
 
 #include <stdio.h>
 

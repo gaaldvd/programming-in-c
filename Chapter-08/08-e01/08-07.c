@@ -1,4 +1,4 @@
-// function that returns the absolute value of a number
+// absolute value function
 
 #include <stdio.h>
 

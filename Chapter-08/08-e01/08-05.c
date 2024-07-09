@@ -1,4 +1,4 @@
-// function to calculate the greatest common divisor
+// greatest common divisor function
 
 #include <stdio.h>
 
