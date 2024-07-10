@@ -1,4 +1,4 @@
-// conversion of positive integer to another base
+// conversion of positive integer of base ten to another base
 
 /* some weak spots:
 1. there is no check if the base is indeed between 2 and 16

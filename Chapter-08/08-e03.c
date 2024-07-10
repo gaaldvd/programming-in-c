@@ -1,4 +1,4 @@
-// square root function (Newton–Raphson method)
+// square root function (Newton–Raphson method), 08-08 modified
 
 #include <stdio.h>
 
@@ -10,9 +10,8 @@ float absoluteValue(float x) { // calculate absolute value
 
 }
 
-float squareRoot(float x) { // calculate square root
+float squareRoot(float x, const float epsilon) { // calculate square root
 
-    const float epsilon = .00001;
     float guess = 1.0;
 
     if (x < 0) { // check for negative numbers in case of user input
@@ -28,9 +27,11 @@ float squareRoot(float x) { // calculate square root
 
 int main(void) {
 
-    printf("square root of 2.0 = %f\n", squareRoot(2.0));
-    printf("square root of 144.0 = %f\n", squareRoot(144.0));
-    printf("square root of 17.5 = %f\n", squareRoot(17.5));
+    const float epsilon = .00001;
+
+    printf("square root of 2.0 = %f\n", squareRoot(2.0, epsilon));
+    printf("square root of 144.0 = %f\n", squareRoot(144.0, epsilon));
+    printf("square root of 17.5 = %f\n", squareRoot(17.5, epsilon));
 
     return 0;
 

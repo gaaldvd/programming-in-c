@@ -58,3 +58,13 @@
 ### Chapter 8: Functions
 
 - [Exercise 1 (source code from the chapter)](https://github.com/strugamano/programming-in-c/tree/main/Chapter-08/08-e01/08-e01.md)
+- [Exercise 2A: n. triangular number function, 08-04 modified](https://github.com/strugamano/programming-in-c/tree/main/Chapter-08/08-e02A.c)
+- [Exercise 2B: n. triangular number function, 05-05 modified](https://github.com/strugamano/programming-in-c/tree/main/Chapter-08/08-e02B.c)
+- [Exercise 3: square root function (Newton–Raphson method), 08-08 modified](https://github.com/strugamano/programming-in-c/tree/main/Chapter-08/08-e03.c)
+- [Exercise 4: square root function (Newton–Raphson method), 08-e03 modified](https://github.com/strugamano/programming-in-c/tree/main/Chapter-08/08-e04.c)
+- [Exercise 5: square root function (Newton–Raphson method), 08-e04 modified](https://github.com/strugamano/programming-in-c/tree/main/Chapter-08/08-e05.c)
+- [Exercise 6: square root function (Newton–Raphson method), 08-e05 modified](https://github.com/strugamano/programming-in-c/tree/main/Chapter-08/08-e06.c)
+- [Exercise 7: power function](https://github.com/strugamano/programming-in-c/tree/main/Chapter-08/08-e07.c)
+- [Exercise 8: find the real roots of a quadratic equation](https://github.com/strugamano/programming-in-c/tree/main/Chapter-08/08-e08.c)
+- [Exercise 9: least common multiple function](https://github.com/strugamano/programming-in-c/tree/main/Chapter-08/08-e09.c)
+- [Exercise 10: determine if a number is a prime](https://github.com/strugamano/programming-in-c/tree/main/Chapter-08/08-e10.c)

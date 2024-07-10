@@ -13,7 +13,7 @@ int main(void) {
 
         for (n = 1; n <= number; n++) triangularNumber += n;
 
-        printf("triangular number %i: %i\n", number, triangularNumber);
+        printf("%i. triangular number: %i\n", number, triangularNumber);
     }
 
     return 0;

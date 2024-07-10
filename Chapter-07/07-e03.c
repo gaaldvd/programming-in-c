@@ -16,8 +16,7 @@ int main(void) {
         else if (response < 1 || response > 10) {
             printf("invalid response: %i\n", response);
             response++;
-        }
-        else ratingCounters[response]++;
+        } else ratingCounters[response]++;
     } while (response);
 
     printf("\n\nrating  responses\n");

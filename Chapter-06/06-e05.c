@@ -14,8 +14,7 @@ int main(void) {
     if (number < 0) {
         isNegative = true;
         number *= -1;
-    }
-    else isNegative = false;
+    } else isNegative = false;
 
     do {
         rightDigit = number % 10;
