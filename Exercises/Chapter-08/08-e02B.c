@@ -4,8 +4,9 @@
 
 int main(void) {
 
-    int number, counter;
     int calculateTriangularNumber(int n);
+
+    int number, counter;
 
     for (counter = 1; counter <= 5; counter++) {
         printf("which triangular number: ");

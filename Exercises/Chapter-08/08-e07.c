@@ -4,8 +4,9 @@
 
 int main(void) {
 
-    int x, n;
     long int power(int x, int n);
+    
+    int x, n;
 
     printf("x to the power of n: ");
     scanf("%i %i", &x, &n);
