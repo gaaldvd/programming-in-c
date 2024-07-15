@@ -75,3 +75,7 @@
 - [Exercise 14: modified source code of the exercises with global variables](https://github.com/strugamano/programming-in-c/tree/main/Exercises/Chapter-08/08-e14/08-e14.md)
 - [Exercise 15: conversion of positive integer of base ten to another base, 08-14 modified](https://github.com/strugamano/programming-in-c/tree/main/Exercises/Chapter-08/08-e15.c)
 - [Exercise 16: conversion of positive integer of base ten to another base, 08-e15 modified](https://github.com/strugamano/programming-in-c/tree/main/Exercises/Chapter-08/08-e16.c)
+
+### Structures
+
+- [Exercise 1: source code from the chapter](https://github.com/strugamano/programming-in-c/tree/main/Exercises/Chapter-09/09-e01/09-e01.md)
