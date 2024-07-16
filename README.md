@@ -79,3 +79,5 @@
 ### Structures
 
 - [Exercise 1: source code from the chapter](https://github.com/strugamano/programming-in-c/tree/main/Exercises/Chapter-09/09-e01/09-e01.md)
+- [Exercise 2: number of days between two dates](https://github.com/strugamano/programming-in-c/tree/main/Exercises/Chapter-09/09-e02.c)
+- [Exercise 3: elapsed time](https://github.com/strugamano/programming-in-c/tree/main/Exercises/Chapter-09/09-e03.c)

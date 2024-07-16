@@ -4,10 +4,10 @@
 #include <stdbool.h>
 
 struct date {
-        int month;
-        int day;
-        int year;
-    };
+    int month;
+    int day;
+    int year;
+};
 
 int main(void) {
 
@@ -15,7 +15,7 @@ int main(void) {
 
     struct date thisDay, nextDay;
 
-    printf("today's date: ");
+    printf("today's date (mm dd yyyy): ");
     scanf("%i%i%i", &thisDay.month, &thisDay.day, &thisDay.year);
 
     nextDay = dateUpdate(thisDay);

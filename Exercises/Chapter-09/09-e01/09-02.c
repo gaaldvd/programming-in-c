@@ -14,7 +14,7 @@ int main(void) {
 
     const int daysPerMonth[12] = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
 
-    printf("today's date: ");
+    printf("today's date (mm dd yyyy): ");
     scanf("%i%i%i", &today.month, &today.day, &today.year);
 
     if (today.day != daysPerMonth[today.month - 1]) {
