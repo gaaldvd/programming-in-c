@@ -29,7 +29,7 @@ int main(void) {
 
 }
 
-struct time elapsedTime(struct time t1, struct time t2) {
+struct time elapsedTime(struct time t1, struct time t2) { // calculating elapsed time by converting everything to seconds
 
     const int maxSeconds = 24 * 60 * 60;
 

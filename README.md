@@ -81,3 +81,6 @@
 - [Exercise 1: source code from the chapter](https://github.com/strugamano/programming-in-c/tree/main/Exercises/Chapter-09/09-e01/09-e01.md)
 - [Exercise 2: number of days between two dates](https://github.com/strugamano/programming-in-c/tree/main/Exercises/Chapter-09/09-e02.c)
 - [Exercise 3: elapsed time](https://github.com/strugamano/programming-in-c/tree/main/Exercises/Chapter-09/09-e03.c)
+- [Exercise 4: determine what day is a certain date](https://github.com/strugamano/programming-in-c/tree/main/Exercises/Chapter-09/09-e04.c)
+- [Exercise 5: update time and date](https://github.com/strugamano/programming-in-c/tree/main/Exercises/Chapter-09/09-e05.c)
+- [Exercise 6: tomorrow's date, 09-04 modified](https://github.com/strugamano/programming-in-c/tree/main/Exercises/Chapter-09/09-e06.c)
