@@ -76,7 +76,7 @@
 - [Exercise 15: conversion of positive integer of base ten to another base, 08-14 modified](https://github.com/strugamano/programming-in-c/tree/main/Exercises/Chapter-08/08-e15.c)
 - [Exercise 16: conversion of positive integer of base ten to another base, 08-e15 modified](https://github.com/strugamano/programming-in-c/tree/main/Exercises/Chapter-08/08-e16.c)
 
-### Structures
+### Chapter 9: Structures
 
 - [Exercise 1: source code from the chapter](https://github.com/strugamano/programming-in-c/tree/main/Exercises/Chapter-09/09-e01/09-e01.md)
 - [Exercise 2: number of days between two dates](https://github.com/strugamano/programming-in-c/tree/main/Exercises/Chapter-09/09-e02.c)
@@ -84,3 +84,7 @@
 - [Exercise 4: determine what day is a certain date](https://github.com/strugamano/programming-in-c/tree/main/Exercises/Chapter-09/09-e04.c)
 - [Exercise 5: update time and date](https://github.com/strugamano/programming-in-c/tree/main/Exercises/Chapter-09/09-e05.c)
 - [Exercise 6: tomorrow's date, 09-04 modified](https://github.com/strugamano/programming-in-c/tree/main/Exercises/Chapter-09/09-e06.c)
+
+### Chapter 10: Strings
+
+- [Exercise 1: source code from the chapter](https://github.com/strugamano/programming-in-c/tree/main/Exercises/Chapter-10/10-e01/10-e01.md)
