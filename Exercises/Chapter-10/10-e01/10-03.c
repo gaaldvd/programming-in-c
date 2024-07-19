@@ -18,7 +18,7 @@ int main(void) {
 
 }
 
-void concat (char result[], const char str1[], const char str2[]) {
+void concat (char result[], const char str1[], const char str2[]) { // concatenate two strings
 
     int i, j;
 

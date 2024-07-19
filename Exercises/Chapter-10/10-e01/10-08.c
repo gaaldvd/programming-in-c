@@ -48,7 +48,7 @@ int main(void) {
 
     int countWords(const char string[]);
     void readLine(char buffer[]);
-    
+
     char text[81]; // stack smashing if the text is longer than 81 characters
     int totalWords = 0;
     bool endOfText = false;

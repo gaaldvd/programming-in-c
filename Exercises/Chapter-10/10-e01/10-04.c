@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 
-bool equalStrings(const char s1[], const char s2[]) {
+bool equalStrings(const char s1[], const char s2[]) { // check if two strings are identical
 
     int i = 0;
     bool areEqual;

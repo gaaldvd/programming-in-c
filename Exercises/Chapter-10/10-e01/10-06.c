@@ -5,7 +5,7 @@
 int main(void) {
 
     void readLine(char buffer[]);
-    
+
     int i;
     char line[81];
 

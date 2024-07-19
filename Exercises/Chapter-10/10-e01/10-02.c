@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-int stringLength(const char string[]) {
+int stringLength(const char string[]) { // determine the length of a string
 
     int count = 0;
 
