@@ -88,3 +88,6 @@
 ### Chapter 10: Strings
 
 - [Exercise 1: source code from the chapter](https://github.com/strugamano/programming-in-c/tree/main/Exercises/Chapter-10/10-e01/10-e01.md)
+- [Exercise 3: count the number of words in a line, 10-07 modified](https://github.com/strugamano/programming-in-c/tree/main/Exercises/Chapter-10/10-e03.c)
+- [Exercise 4: extract substring function](https://github.com/strugamano/programming-in-c/tree/main/Exercises/Chapter-10/10-e04.c)
+- [Exercise 5: find substring function](https://github.com/strugamano/programming-in-c/tree/main/Exercises/Chapter-10/10-e05.c)
