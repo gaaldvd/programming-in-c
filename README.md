@@ -91,3 +91,5 @@
 - [Exercise 3: count the number of words in a line, 10-07 modified](https://github.com/strugamano/programming-in-c/tree/main/Exercises/Chapter-10/10-e03.c)
 - [Exercise 4: extract substring function](https://github.com/strugamano/programming-in-c/tree/main/Exercises/Chapter-10/10-e04.c)
 - [Exercise 5: find substring function](https://github.com/strugamano/programming-in-c/tree/main/Exercises/Chapter-10/10-e05.c)
+- [Exercise 6: remove substring function](https://github.com/strugamano/programming-in-c/tree/main/Exercises/Chapter-10/10-e06.c)
+- [Exercise 7: insert substring function](https://github.com/strugamano/programming-in-c/tree/main/Exercises/Chapter-10/10-e07.c)

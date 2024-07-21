@@ -9,13 +9,13 @@ int main(void) {
     const char string[] = "The findString function looks for substrings.";
     const char substring[] = "String";
 
-    int loc = findString(string, substring);
+    int pos = findString(string, substring);
 
     printf("%s\n", string);
-    if (loc == -1) printf("substring \'%s\' can't be found\n", substring);
+    if (pos == -1) printf("substring \'%s\' can't be found\n", substring);
     else {
-        for (int i = 0; i <= loc; i++) (i < loc) ? printf(" ") : printf("%i\n", loc);
-        for (int i = 0; i <= loc; i++) (i < loc) ? printf(" ") : printf("%s\n", substring);
+        for (int i = 0; i <= pos; i++) (i < pos) ? printf(" ") : printf("%i\n", pos);
+        for (int i = 0; i <= pos; i++) (i < pos) ? printf(" ") : printf("%s\n", substring);
     }
 
     return 0;
