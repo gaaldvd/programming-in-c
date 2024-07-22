@@ -1,45 +1,54 @@
 // convert integer to string
 
 #include <stdio.h>
+#include <stdbool.h>
+
+char string[] = "";
 
 int main(void) {
 
     void intToStr(int num);
 
-    int nums[] = {0, 1, 10, 25, 95, 100, 456, 1000, 1234, 56789};
+    int nums[] = {0, -1, 10, -23, 100, -456, 1000, -78900}, j;
 
-    for (int i = 0; i < 10; i++) {
+    for (int i = 0; i < 8; i++) {
         intToStr(nums[i]);
-        //printf("int: %i  str: %s\n", nums[i], numStrings[i]);
+        printf("int: %i\nstr: %s\n\n", nums[i], string);
     }
 
     return 0;
 
 }
 
-void intToStr(int num) {
+void intToStr(int num) { // convert an integer to a string
 
-    int iterateDigit(int digit);
+    int digits = 0, digit, digitInt, digitCount, i, j = 0;
+    bool isNegative = false;
 
-    int digits = 0, i, digit;
-
-    for (int tmp = num; tmp > 0; digits++) tmp/=10; // number of digits
-
-    printf("%i -- ", digits);
-
-    while(digits--)
-    {
-        printf("%ld_", num/iterateDigit(digits)%10);
+    if (num < 0) {
+        isNegative = true;
+        num *= -1;
+        j++;
+        string[0] = '-';
     }
 
-    printf("\n");
+    if (num == 0) {
+        digitCount = 1;
+        string[0] = '0';
+    } else {
+        for (int tmp = num; tmp > 0; digits++) tmp /= 10; // number of digits
+        digitCount = digits;
+        while(digits--) { // iterate through digits
+            i = 1;
+            digit = digits;
+            while (digit--) i *= 10;
+            digitInt = num / i % 10;
+            string[j] = 48 + digitInt;
+            j++;
+        }
+    }
 
-}
+    if (isNegative) string[digitCount + 1] = '\0';
+    else string[digitCount] = '\0';
 
-int iterateDigit(int digit)
-{
-    int i = 1;
-    while(digit--)
-        i *= 10;
-    return i;
 }

@@ -33,7 +33,7 @@ int main(void) {
 
 }
 
-void dictionarySort(struct entry dictionary[], int entries) {
+void dictionarySort(struct entry dictionary[], int entries) { // sort a dictionary alphabetically
 
     int compareStrings(const char s1[], const char s2[]);
 

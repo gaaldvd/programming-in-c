@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-int strToInt(const char string[]) {
+int strToInt(const char string[]) { // convert string to integer
 
     int i, intValue, result = 0;
 

@@ -10,7 +10,7 @@ bool alphabetic(const char c) { // is the character alphabetic?
 
 }
 
-void readLine(char buffer[]) { // function to read a line of text from the terminal
+void readLine(char buffer[]) { // read a line of text from the terminal
 
     char character;
     int i = 0;

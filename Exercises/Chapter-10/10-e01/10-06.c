@@ -18,7 +18,7 @@ int main(void) {
 
 }
 
-void readLine(char buffer[]) { // function to read a line of text from the terminal
+void readLine(char buffer[]) { // read a line of text from the terminal
 
     char character;
     int i = 0;
