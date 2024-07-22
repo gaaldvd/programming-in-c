@@ -24,13 +24,13 @@ int main(void) {
 
 int findString (const char string[], const char substring[]) { // find the first appearance of a substring
 
-    int i = 0, j = 0, loc;
+    int pos;
 
-    for (i = 0; string[i] != '\0'; i++) {
-        loc = i;
-        for (j = 0; substring[j] != '\0'; j++)
+    for (int i = 0; string[i] != '\0'; i++) {
+        pos = i;
+        for (int j = 0; substring[j] != '\0'; j++)
             if ((substring[j] == string[i + j]) && (substring[j + 1] != '\0')) continue;
-            else if ((substring[j] == string[i + j]) && (substring[j + 1] == '\0')) return loc;
+            else if ((substring[j] == string[i + j]) && (substring[j + 1] == '\0')) return pos;
             else break;
     }
 

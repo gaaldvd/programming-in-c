@@ -18,7 +18,7 @@ int main(void) {
 
 }
 
-void removeString(char string[], int start, int len) { // remove substring from string
+void removeString(char string[], int start, int len) { // remove a substring from a string
 
     int i;
 

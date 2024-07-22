@@ -4,11 +4,11 @@
 
 int main(void) {
 
-    void insertString(char string[], char substring[], int pos);
+    void insertString(char string[], const char substring[], int pos);
 
-    char string[] = "The inserString function inserts a string into a string.";
-    char substring[] = "sub";
-    int pos = 35;
+    char string[] = "The insertString function inserts a string into a string.";
+    const char substring[] = "sub";
+    int pos = 36;
 
     printf("%s\n", string);
     for (int i = 0; string[i] != '\0'; i++) (i < pos || i >= pos + 3) ? printf(" ") : printf("+");
@@ -19,29 +19,27 @@ int main(void) {
 
 }
 
-void insertString(char string[], char substring[], int pos) { // insert a substring into a string
+void insertString(char string[], const char substring[], int pos) { // insert a substring into a string
 
-    int i, j = 0;
-    char c;
+    int stringLength(const char string[]);
 
-    for (i = 0; substring[i] != '\0'; i++) {
-        for (j = 0; string[pos + j] != '\0'; j++) {
-            
-        }
-        string[pos] = substring[i];
-        pos++;
-    }
+    int i, strLen = stringLength(string), subLen = stringLength(substring), holdLen = strLen - pos + 1;
+    char holder[holdLen];
 
-    // for (i = 0; string[i] != '\0'; i++) {
-    //     if ((i == pos + j) && (substring[j] != '\0')) {
-    //         c = string[i];
-    //         string[i] = substring[j];
-    //         j++;
-    //     }
-    // }
+    for (i = 0; string[pos + i] != '\0'; i++) holder[i] = string[pos + i];
+    holder[holdLen] = '\0';
+    for (i = 0; substring[i] != '\0'; i++) string[pos + i] = substring[i];
+    for (i = 0; holder[i] != '\0'; i++) string[pos + subLen + i] = holder[i];
+    string[strLen + subLen] = '\0';
 
-    //printf("%s", substitue);
-    
-    //string[59] = '\0';
+}
+
+int stringLength(const char string[]) { // determine the length of a string
+
+    int count = 0;
+
+    while (string[count] != '\0') count++;
+
+    return count;
 
 }
