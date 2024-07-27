@@ -6,20 +6,20 @@
 
 ### Contents
 
-- [Chapter 3: Compiling and running your first program](#chapter-3-compiling-and-running-your-first-program)
-- [Chapter 4: Variables, data types and arithmetic expressions](#chapter-4-variables-data-types-and-arithmetic-expressions)
-- [Chapter 5: Loops](#chapter-5-loops)
-- [Chapter 6: Decision making](#chapter-6-decision-making)
-- [Chapter 7: Arrays](#chapter-7-arrays)
-- [Chapter 8: Functions](#chapter-8-functions)
-- [Chapter 9: Structures](#chapter-9-structures)
-- [Chapter 10: Strings](#chapter-10-strings)
-- [Chapter 11: Pointers](#chapter-11-pointers)
+>- [Chapter 3: Compiling and running your first program](#chapter-3-compiling-and-running-your-first-program)
+>- [Chapter 4: Variables, data types and arithmetic expressions](#chapter-4-variables-data-types-and-arithmetic-expressions)
+>- [Chapter 5: Loops](#chapter-5-loops)
+>- [Chapter 6: Decision making](#chapter-6-decision-making)
+>- [Chapter 7: Arrays](#chapter-7-arrays)
+>- [Chapter 8: Functions](#chapter-8-functions)
+>- [Chapter 9: Structures](#chapter-9-structures)
+>- [Chapter 10: Strings](#chapter-10-strings)
+>- [Chapter 11: Pointers](#chapter-11-pointers)
 
 ### Chapter 3: Compiling and running your first program
 
 - [Exercise 1: source code from the chapter](Exercises/Chapter-03/03-e01/03-e01.md)
-  - [3.1 - output](Exercises/Chapter-03/03-e01/03-01.c)
+  - [3.1 - output](Exercises/Chapter-03/03-e01/03-01.c)  
   - [3.2 - multiple lines of output](Exercises/Chapter-03/03-e01/03-02.c)
   - [3.3 - output with line breaks](Exercises/Chapter-03/03-e01/03-03.c)
   - [3.4 - displaying values](Exercises/Chapter-03/03-e01/03-04.c)
