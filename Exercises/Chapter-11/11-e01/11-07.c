@@ -11,7 +11,6 @@ int main(void) {
 
     struct entry n1, n2, n3;
     struct entry *listPtr = &n1; // leader
-    int i;
 
     n1.value = 100;
     n1.next = &n2;
