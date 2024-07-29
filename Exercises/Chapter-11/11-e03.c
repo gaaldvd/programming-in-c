@@ -11,10 +11,10 @@ int main(void) {
 
     void insertEntry(struct entry * const newEntry, struct entry * const prevEntry);
 
-    struct entry n0_1, n1, n2, n3, n2_1, *listPtr, listHeader;
+    struct entry n0_1, n1, n2, n3, n2_1, *listPtr, listStart;
 
-    listHeader.next = &n1;
-    listPtr = listHeader.next;
+    listStart.next = &n1;
+    listPtr = listStart.next;
 
     n1.value = 100;
     n1.next = &n2;
@@ -33,7 +33,7 @@ int main(void) {
 
     n2_1.value = 250;
     insertEntry(&n2_1, &n2);
-    listPtr = listHeader.next;
+    listPtr = listStart.next;
     printf("\nafter 1st insertion: ");
     while (listPtr != (struct entry *) 0) {
         printf("%i  ", listPtr->value);
@@ -41,8 +41,8 @@ int main(void) {
     }
 
     n0_1.value = 50;
-    insertEntry(&n0_1, &listHeader);
-    listPtr = listHeader.next;
+    insertEntry(&n0_1, &listStart);
+    listPtr = listStart.next;
     printf("\nafter 2nd insertion: ");
     while (listPtr != (struct entry *) 0) {
         printf("%i  ", listPtr->value);

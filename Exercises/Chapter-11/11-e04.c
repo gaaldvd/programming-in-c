@@ -11,10 +11,10 @@ int main(void) {
 
     void removeEntry(struct entry * const prevEntry);
 
-    struct entry n1, n2, n3, *listPtr, listHeader;
+    struct entry n1, n2, n3, *listPtr, listStart;
 
-    listHeader.next = &n1;
-    listPtr = listHeader.next;
+    listStart.next = &n1;
+    listPtr = listStart.next;
 
     n1.value = 100;
     n1.next = &n2;
@@ -32,15 +32,15 @@ int main(void) {
     }
 
     removeEntry(&n1);
-    listPtr = listHeader.next;
+    listPtr = listStart.next;
     printf("\nafter 1st deletion: ");
     while (listPtr != (struct entry *) 0) {
         printf("%i  ", listPtr->value);
         listPtr = listPtr->next;
     }
 
-    removeEntry(&listHeader);
-    listPtr = listHeader.next;
+    removeEntry(&listStart);
+    listPtr = listStart.next;
     printf("\nafter 2nd deletion: ");
     while (listPtr != (struct entry *) 0) {
         printf("%i  ", listPtr->value);

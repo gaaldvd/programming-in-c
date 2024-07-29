@@ -15,6 +15,7 @@
 >- [Chapter 9: Structures](#chapter-9-structures)
 >- [Chapter 10: Strings](#chapter-10-strings)
 >- [Chapter 11: Pointers](#chapter-11-pointers)
+>- [Chapter 12: Bitwise operations](#chapter-12-bitwise-operations)
 
 ### Chapter 3: Compiling and running your first program
 
@@ -216,3 +217,9 @@
 - [Exercise 2: insertEntry function](Exercises/Chapter-11/11-e02.c)
 - [Exercise 3: insertEntry function, 11-e02 modified](Exercises/Chapter-11/11-e03.c)
 - [Exercise 4: removeEntry function](Exercises/Chapter-11/11-e04.c)
+- [Exercise 5: doubly linked lists](Exercises/Chapter-11/11-e05.c)
+- [Exercise 6: functions for doubly linked lists](Exercises/Chapter-11/11-e06.c)
+
+### Chapter 12: Bitwise operations
+
+- [Exercise 1: source code from the chapter](Exercises/Chapter-12/12-e01/12-e01.md)
