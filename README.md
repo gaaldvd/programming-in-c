@@ -219,6 +219,9 @@
 - [Exercise 4: removeEntry function](Exercises/Chapter-11/11-e04.c)
 - [Exercise 5: doubly linked lists](Exercises/Chapter-11/11-e05.c)
 - [Exercise 6: functions for doubly linked lists](Exercises/Chapter-11/11-e06.c)
+- [Exercise 7: sorting function, 08-e13 modified](Exercises/Chapter-11/11-e07.c)
+- [Exercise 8: sort3 function](Exercises/Chapter-11/11-e08.c)
+- [Exercise 9: readLine function, 10-06 modified](Exercises/Chapter-11/11-e09.c)
 
 ### Chapter 12: Bitwise operations
 
