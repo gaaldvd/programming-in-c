@@ -229,3 +229,7 @@
 ### Chapter 12: Bitwise operations
 
 - [Exercise 1: source code from the chapter](Exercises/Chapter-12/12-e01/12-e01.md)
+  - [12.1 - bitwise AND operation](Exercises/Chapter-12/12-e01/12-01.c)
+  - [12.2 - bitwise operations](Exercises/Chapter-12/12-e01/12-02.c)
+  - [12.3 - bitwise shift function](Exercises/Chapter-12/12-e01/12-03.c)
+  - [12.4 - bitwise rotate function](Exercises/Chapter-12/12-e01/12-04.c)
