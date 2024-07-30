@@ -222,6 +222,9 @@
 - [Exercise 7: sorting function, 08-e13 modified](Exercises/Chapter-11/11-e07.c)
 - [Exercise 8: sort3 function](Exercises/Chapter-11/11-e08.c)
 - [Exercise 9: readLine function, 10-06 modified](Exercises/Chapter-11/11-e09.c)
+- [Exercise 10: compareStrings function, 10-10 modified](Exercises/Chapter-11/11-e10.c)
+- [Exercise 11: dateUpdate function, 09-e06 modified](Exercises/Chapter-11/11-e11.c)
+- [Exercise 12: various printf parameters](Exercises/Chapter-11/11-e12.c)
 
 ### Chapter 12: Bitwise operations
 

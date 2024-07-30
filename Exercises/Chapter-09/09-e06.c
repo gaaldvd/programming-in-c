@@ -32,13 +32,9 @@ struct date dateUpdate(struct date today) { // tomorrow's date
 
     struct date tomorrow;
 
-    if (today.day != numberOfDays(today)) {
-        tomorrow = (struct date) {today.day + 1, today.month, today.year};
-    } else if (today.month == 12) { // end of the year
-        tomorrow = (struct date) {1, 1, today.year + 1};
-    } else { // end of the month
-        tomorrow = (struct date) {1, 1, today.year};
-    }
+    if (today.day != numberOfDays(today)) tomorrow = (struct date) {today.month, today.day + 1, today.year};
+    else if (today.month == 12) tomorrow = (struct date) {1, 1, today.year + 1}; // end of the year
+    else tomorrow = (struct date) {today.month + 1, 1, today.year}; // end of the month
 
     return tomorrow;
 
