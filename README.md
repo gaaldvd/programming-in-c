@@ -16,6 +16,7 @@
 >- [Chapter 10: Strings](#chapter-10-strings)
 >- [Chapter 11: Pointers](#chapter-11-pointers)
 >- [Chapter 12: Bitwise operations](#chapter-12-bitwise-operations)
+>- [Chapter 13: The preprocessor](#chapter-13-the-preprocessor)
 
 ### Chapter 3: Compiling and running your first program
 
@@ -233,3 +234,10 @@
   - [12.2 - bitwise operations](Exercises/Chapter-12/12-e01/12-02.c)
   - [12.3 - bitwise shift function](Exercises/Chapter-12/12-e01/12-03.c)
   - [12.4 - bitwise rotate function](Exercises/Chapter-12/12-e01/12-04.c)
+
+### Chapter 13: The preprocessor
+
+- [Exercise 1: source code from the chapter](Exercises/Chapter-13/13-e01/13-e01.md)
+  - [13.1 - the #define statement](Exercises/Chapter-13/13-e01/13-01.c)
+  - [13.2 - more on the #define statement](Exercises/Chapter-13/13-e01/13-02.c)
+  - [13.3 - the #include statement](Exercises/Chapter-13/13-e01/13-03.c)
