@@ -1,4 +1,4 @@
-// bitwise shift function
+// bitwise shift function, 12-03 modified
 
 #include <stdio.h>
 

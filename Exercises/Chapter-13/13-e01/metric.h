@@ -1,5 +1,5 @@
-#ifndef METRIC_H_
-#define METRIC_H_
+#ifndef _METRIC_H
+#define _METRIC_H
 
 #define INCHES_PER_CENTIMETER 0.394
 #define CENTIMETERS_PER_INCH 1 / INCHES_PER_CENTIMETER
@@ -10,4 +10,4 @@
 #define OUNCES_PER_GRAM 0.035
 #define GRAMS_PER_OUNCE 1 / GRAMS_PER_OUNCE
 
-#endif
+#endif /* _METRIC_H */
