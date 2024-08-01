@@ -8,15 +8,17 @@
 
 >- [Chapter 3: Compiling and running your first program](#chapter-3-compiling-and-running-your-first-program)
 >- [Chapter 4: Variables, data types and arithmetic expressions](#chapter-4-variables-data-types-and-arithmetic-expressions)
->- [Chapter 5: Loops](#chapter-5-loops)
->- [Chapter 6: Decision making](#chapter-6-decision-making)
->- [Chapter 7: Arrays](#chapter-7-arrays)
->- [Chapter 8: Functions](#chapter-8-functions)
->- [Chapter 9: Structures](#chapter-9-structures)
->- [Chapter 10: Strings](#chapter-10-strings)
+>- [Chapter 5: Program looping](#chapter-5-program-looping)
+>- [Chapter 6: Making decision](#chapter-6-making-decisions)
+>- [Chapter 7: Working with arrays](#chapter-7-working-with-arrays)
+>- [Chapter 8: Working with functions](#chapter-8-working-with-functions)
+>- [Chapter 9: Working with structures](#chapter-9-working-with-structures)
+>- [Chapter 10: Character strings](#chapter-10-character-strings)
 >- [Chapter 11: Pointers](#chapter-11-pointers)
->- [Chapter 12: Bitwise operations](#chapter-12-bitwise-operations)
+>- [Chapter 12: Operations on bits](#chapter-12-operations-on-bits)
 >- [Chapter 13: The preprocessor](#chapter-13-the-preprocessor)
+>- [Chapter 14: More on data types](#chapter-14-more-on-data-types)
+>- [Chapter 16: Input and output operations in C](#chapter-16-input-and-output-operations-in-c)
 
 ### Chapter 3: Compiling and running your first program
 
@@ -47,7 +49,7 @@
 - [Exercise 7: evaluation of expression with exponentials](Exercises/Chapter-04/04-e07.c)
 - [Exercise 8: next largest even multiple](Exercises/Chapter-04/04-e08.c)
 
-### Chapter 5: Loops
+### Chapter 5: Program looping
 
 - [Exercise 1: source code from the chapter](Exercises/Chapter-05/05-e01/05-e01.md)
   - [5.1 - the eighth triangular number](Exercises/Chapter-05/05-e01/05-01.c)
@@ -73,7 +75,7 @@
   - [nested while loop, 05-05 modified](Exercises/Chapter-05/05-e09/05-05m.c)
 - [Exercise 11: sum of digits](Exercises/Chapter-05/05-e11.c)
 
-### Chapter 6: Decision making
+### Chapter 6: Making decisions
 
 - [Exercise 1: source code from the chapter](Exercises/Chapter-06/06-e01/06-e01.md)
   - [6.1 - absolute value of an integer](Exercises/Chapter-06/06-e01/06-01.c)
@@ -95,7 +97,7 @@
 - [Exercise 6: displaying number with english words](Exercises/Chapter-06/06-e06.c)
 - [Exercise 7: table of prime numbers, 06-10A modified](Exercises/Chapter-06/06-e07.c)
 
-### Chapter 7: Arrays
+### Chapter 7: Working with arrays
 
 - [Exercise 1: source code from the chapter](Exercises/Chapter-07/07-e01/07-e01.md)
   - [7.1 - simple expressions with arrays](Exercises/Chapter-07/07-e01/07-01.c)
@@ -113,7 +115,7 @@
 - [Exercise 6: first 15 Fibonacci numbers without arrays, 07-03 modified](Exercises/Chapter-07/07-e06.c)
 - [Exercise 7: the Sieve of Eratosthenes](Exercises/Chapter-07/07-e07.c)
 
-### Chapter 8: Functions
+### Chapter 8: Working with functions
 
 - [Exercise 1: source code from the chapter](Exercises/Chapter-08/08-e01/08-e01.md)
   - [8.1 - defining a function](Exercises/Chapter-08/08-e01/08-01.c)
@@ -155,7 +157,7 @@
 - [Exercise 15: conversion of positive integer of base ten to another base, 08-14 modified](Exercises/Chapter-08/08-e15.c)
 - [Exercise 16: conversion of positive integer of base ten to another base, 08-e15 modified](Exercises/Chapter-08/08-e16.c)
 
-### Chapter 9: Structures
+### Chapter 9: Working with structures
 
 - [Exercise 1: source code from the chapter](Exercises/Chapter-09/09-e01/09-e01.md)
   - [9.1 - defining a structure](Exercises/Chapter-09/09-e01/09-01.c)
@@ -171,7 +173,7 @@
 - [Exercise 5: update time and date](Exercises/Chapter-09/09-e05.c)
 - [Exercise 6: tomorrow's date, 09-04 modified](Exercises/Chapter-09/09-e06.c)
 
-### Chapter 10: Strings
+### Chapter 10: Character strings
 
 - [Exercise 1: source code from the chapter](Exercises/Chapter-10/10-e01/10-e01.md)
   - [10.1 - concatenate two strings](Exercises/Chapter-10/10-e01/10-01.c)
@@ -227,7 +229,7 @@
 - [Exercise 11: dateUpdate function, 09-e06 modified](Exercises/Chapter-11/11-e11.c)
 - [Exercise 12: various printf parameters](Exercises/Chapter-11/11-e12.c)
 
-### Chapter 12: Bitwise operations
+### Chapter 12: Operations on bits
 
 - [Exercise 1: source code from the chapter](Exercises/Chapter-12/12-e01/12-e01.md)
   - [12.1 - bitwise AND operation](Exercises/Chapter-12/12-e01/12-01.c)
@@ -251,3 +253,13 @@
 - [Exercise 9: ABSOLUTE_VALUE macro](Exercises/Chapter-13/13-e09.c)
 - [Exercise 10: PRINTINT macro](Exercises/Chapter-13/13-e10.c)
 - [Exercise 11: isupper, isalpha, isdigit functions of the standard library](Exercises/Chapter-13/13-e11.c)
+
+### Chapter 14: More on data types
+
+- [Exercise 1: source code from the chapter](Exercises/Chapter-14/14-e01/14-e01.md)
+  - [14.1 - ](Exercises/Chapter-14/14-e01/14-01.c)
+
+### Chapter 16: Input and output operations in C
+
+- [Exercise 1: source code from the chapter](Exercises/Chapter-16/16-e01/16-e01.md)
+  - [16.1 - ](Exercises/Chapter-16/16-e01/16-01.c)
