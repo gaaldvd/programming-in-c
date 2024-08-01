@@ -247,3 +247,7 @@
 - [Exercise 5: SHIFT macro, 12-03 modified](Exercises/Chapter-13/13-e05.c)
 - [Exercise 6: IS_UPPER_CASE macro](Exercises/Chapter-13/13-e06.c)
 - [Exercise 7: IS_ALPHABETIC macro](Exercises/Chapter-13/13-e07.c)
+- [Exercise 8: IS_DIGIT and IS_SPECIAL macros](Exercises/Chapter-13/13-e08.c)
+- [Exercise 9: ABSOLUTE_VALUE macro](Exercises/Chapter-13/13-e09.c)
+- [Exercise 10: PRINTINT macro](Exercises/Chapter-13/13-e10.c)
+- [Exercise 11: isupper, isalpha, isdigit functions of the standard library](Exercises/Chapter-13/13-e11.c)
