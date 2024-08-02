@@ -256,8 +256,10 @@
 
 ### Chapter 14: More on data types
 
-- [Exercise 1: source code from the chapter](Exercises/Chapter-14/14-e01/14-e01.md)
-  - [14.1 - ](Exercises/Chapter-14/14-e01/14-01.c)
+- [14.1 - the enumerated type](Exercises/Chapter-14/14-01.c)
+- [Exercise 1: defining a function pointer type](Exercises/Chapter-14/14-e01.c)
+- [Exercise 2: monthName function](Exercises/Chapter-14/14-e02.c)
+- [Exercise 3: type conversions](Exercises/Chapter-14/14-e03.c)
 
 ### Chapter 16: Input and output operations in C
 
