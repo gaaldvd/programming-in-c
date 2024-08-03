@@ -251,7 +251,7 @@
 - [Exercise 7: IS_ALPHABETIC macro](Exercises/Chapter-13/13-e07.c)
 - [Exercise 8: IS_DIGIT and IS_SPECIAL macros](Exercises/Chapter-13/13-e08.c)
 - [Exercise 9: ABSOLUTE_VALUE macro](Exercises/Chapter-13/13-e09.c)
-- [Exercise 10: PRINTINT macro](Exercises/Chapter-13/13-e10.c)
+- [Exercise 10: PRINTX macro](Exercises/Chapter-13/13-e10.c)
 - [Exercise 11: isupper, isalpha, isdigit functions of the standard library](Exercises/Chapter-13/13-e11.c)
 
 ### Chapter 14: More on data types
@@ -264,4 +264,4 @@
 ### Chapter 16: Input and output operations in C
 
 - [Exercise 1: source code from the chapter](Exercises/Chapter-16/16-e01/16-e01.md)
-  - [16.1 - ](Exercises/Chapter-16/16-e01/16-01.c)
+  - [16.1 - printf format specifiers](Exercises/Chapter-16/16-e01/16-01.c)

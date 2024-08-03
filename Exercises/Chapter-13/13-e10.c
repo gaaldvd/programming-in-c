@@ -1,4 +1,4 @@
-// PRINTINT macro
+// PRINTX macro
 
 #include <stdio.h>
 
