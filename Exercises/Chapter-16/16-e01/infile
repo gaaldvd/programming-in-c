@@ -1,0 +1,3 @@
+This content can be displayed in the terminal, or it can be copied into another file.
+The putchar() function prints every character until the loop reaches the end of the file.
+And the putc() function does the same, but it uses a file as output.

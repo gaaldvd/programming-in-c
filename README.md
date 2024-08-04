@@ -265,3 +265,6 @@
 
 - [Exercise 1: source code from the chapter](Exercises/Chapter-16/16-e01/16-e01.md)
   - [16.1 - printf format specifiers](Exercises/Chapter-16/16-e01/16-01.c)
+  - [16.2 - redirecting input](Exercises/Chapter-16/16-e01/16-02.c)
+  - [16.3 - copying the contents of a file into another](Exercises/Chapter-16/16-e01/16-03.c)
+  - [infile](Exercises/Chapter-16/16-e01/infile)
