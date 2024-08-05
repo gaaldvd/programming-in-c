@@ -8,7 +8,7 @@ int main(void) {
     FILE *in, *out;
     int c;
 
-    printf("enter the name of the original file: ");
+    printf("enter the name of the original file: "); // you can use 'infile' here
     scanf("%63s", inName);
     printf("enter the name of the new file: ");
     scanf("%63s", outName);
