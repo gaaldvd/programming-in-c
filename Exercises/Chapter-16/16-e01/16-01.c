@@ -4,8 +4,8 @@
 
 int main(void) {
 
-    char            c = 'X';
-    char            s[] = "abcdefghijklmnopqrstuvwxyz";
+	char            c = 'X';
+	char            s[] = "abcdefghijklmnopqrstuvwxyz";
 	int             i = 425;
 	short int       j = 17;
 	unsigned int    u = 0xf179U;

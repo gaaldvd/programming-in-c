@@ -14,11 +14,11 @@ int main(void) {
     scanf("%63s", outName);
 
     if ((in = fopen(inName, "r")) == NULL) {
-        printf("%s can't be opened in read mode\n", inName);
+        printf("can't open %s for reading\n", inName);
         return 1;
     }
     if ((out = fopen(outName, "w")) == NULL) {
-        printf("%s can't be opened in write mode\n", outName);
+        printf("can't open %s for writing\n", outName);
         return 2;
     }
 
