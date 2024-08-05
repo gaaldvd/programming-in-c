@@ -272,4 +272,4 @@
 - [Exercise 4: display the combined contents of two files](Exercises/Chapter-16/16-e04.c)
 - [Exercise 5: display part of every line of a file](Exercises/Chapter-16/16-e05.c)
 - [Exercise 6: display contents of a file by groups of 20 lines](Exercises/Chapter-16/16-e06.c)
-- text files used in the exercises: [lowercase](Exercises/Chapter-16/lowercase), [infile1](Exercises/Chapter-16/infile1), [infile2](Exercises/Chapter-16/infile2), [longtext](Exercises/Chapter-16/longtext)
+- [lowercase](Exercises/Chapter-16/lowercase), [infile1](Exercises/Chapter-16/infile1), [infile2](Exercises/Chapter-16/infile2), [longtext](Exercises/Chapter-16/longtext)
